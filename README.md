@@ -1,7 +1,7 @@
 # 42 Chain blog
 
 The stories and articles published at [42chain.org/blog](https://42chain.org/blog).
-Plain Markdown with no code; the site (`42chain-site`) turns each file into a
+Plain Markdown with no code; the site (the `site` repository) turns each file into a
 post page and lists it in the blog.
 
 ## Layout
@@ -34,8 +34,8 @@ Nothing runs here on its own. Use the site, where this repository is the
 `apps/web/content/blog` submodule:
 
 ```bash
-git clone --recurse-submodules https://github.com/<org>/42chain-site.git
-cd 42chain-site && npm ci && npm run dev   # http://localhost:4321/blog
+git clone --recurse-submodules https://github.com/<org>/site.git
+cd site && npm ci && npm run dev   # http://localhost:4321/blog
 ```
 
 ## How a post is published
