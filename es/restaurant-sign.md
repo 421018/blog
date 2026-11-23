@@ -14,7 +14,7 @@ No había sopa. Margarete lo sabía. La cocina lo sabía. Probablemente lo sabí
 
 Una nave llegó un jueves. El piloto había organizado la tarde alrededor de la sopa, que es el tipo de plan que solo parece pequeño hasta que falla. Entró, la pidió, y Margarete le explicó, con la amabilidad de quien ya ha tenido esta conversación, que la sopa era un error. No un error de la cocina. Un error del letrero. Y que el letrero no era suyo, aunque estuviera clavado en su pared.
 
-:::figure[Margarete tacha la sopa del letrero. El piloto mira.]
+:::figure
 ![Margarete tacha la palabra sopa en el menú del restaurante mientras el piloto espera en la barra](../images/letrero-menu.jpg)
 :::
 

@@ -14,7 +14,7 @@ There was no soup. Margarete knew it. The kitchen knew it. Probably even the pot
 
 A ship arrived on a Thursday. The pilot had planned the afternoon around the soup, which is the kind of plan that only seems small until it fails. He came in, ordered it, and Margarete explained, with the kindness of someone who has had this conversation before, that the soup was a mistake. Not a mistake of the kitchen. A mistake of the sign. And that the sign was not hers, even though it was nailed to her wall.
 
-:::figure[Margarete crosses the soup off the sign. The pilot watches.]
+:::figure
 ![Margarete crosses out the word soup on the restaurant's menu while the pilot waits at the counter](../images/letrero-menu.jpg)
 :::
 
