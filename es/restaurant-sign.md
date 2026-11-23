@@ -6,7 +6,6 @@ featured: true
 weight: 5
 image: ../images/letrero.jpg
 alt: "Un restaurante remoto en una estación espacial, con un letrero que anuncia sopa y una nave aparcada al lado"
-credit: "Imagen generada"
 ---
 
 Margarete mantenía el letrero de un restaurante en un rincón de la galaxia al que las naves llegaban casi siempre por error y casi nunca por segunda vez. Decir que lo mantenía es generoso. Lo miraba todas las mañanas, lo limpiaba cuando hacía falta y sabía mejor que nadie lo que decía. Lo que no podía hacer era cambiarlo. Aquel día, como desde hacía meses, el letrero decía una sola cosa: que se servía sopa.

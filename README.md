@@ -23,7 +23,8 @@ Front matter, checked by the site's schema (`apps/web/src/kit/schemas.ts`):
 | `title`, `summary` | Required. |
 | `category` | Required: one of the ids in the site's `content/site/<lang>/site.md` → `blog.categories` (for example `historia`). |
 | `date` | Optional; without it, the date of the file's last commit. |
-| `image`, `alt`, `credit` | Optional cover: the path (`../images/…`), its description and its credit. |
+| `image`, `alt` | Optional cover: the path (`../images/…`) and its description. `alt` is required when `image` is set. |
+| `credit` | Optional. When set, it is the cover caption. Without it, the cover has no caption. |
 | `featured`, `weight` | Optional: highlight it and order it in the blog index. |
 
 No HTML, MDX or scripts: Markdown and the site's `:::` blocks only.

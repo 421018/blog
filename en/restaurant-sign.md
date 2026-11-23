@@ -6,7 +6,6 @@ featured: true
 weight: 5
 image: ../images/letrero.jpg
 alt: "A remote restaurant on a space station, with a sign announcing soup and a ship parked beside it"
-credit: "Generated image"
 ---
 
 Margarete looked after the sign of a restaurant in a corner of the galaxy where ships almost always arrived by mistake and almost never came back. Saying she looked after it is generous. She looked at it every morning, cleaned it when it needed cleaning and knew better than anyone what it said. What she could not do was change it. That day, as for months, the sign said only one thing: that soup was being served.
